@@ -43,7 +43,7 @@ This repository tracks package versions for my Linux From Scratch (LFS) build.
 - groff-1.23.0 _[link](https://ftp.gnu.org/gnu/groff/groff-1.23.0.tar.gz)_
 - grub-2.12 _[link](https://ftp.gnu.org/gnu/grub/grub-2.12.tar.xz)_
 - gzip-1.14 _[link](https://ftp.gnu.org/gnu/gzip/gzip-1.14.tar.xz)_
-- harfbuzz-12.0.0 _BLFS_
+- harfbuzz-12.1.0 _BLFS_ ([download](https://github.com/harfbuzz/harfbuzz/releases/download/12.1.0/harfbuzz-12.1.0.tar.xz), [manual](https://www.linuxfromscratch.org/blfs/view/svn/general/harfbuzz.html))
 - iana-etc-20250807 _[link](https://github.com/Mic92/iana-etc/releases/download/20250807/iana-etc-20250807.tar.gz)_
 - icu4c-77_1-src _BLFS_
 - inetutils-2.6 _[link](https://ftp.gnu.org/gnu/inetutils/inetutils-2.6.tar.xz)_
