@@ -11,7 +11,7 @@ This repository tracks package versions for my Linux From Scratch (LFS) build.
 - binutils-2.45 _[link](https://sourceware.org/pub/binutils/releases/binutils-2.45.tar.xz)_
 - bison-3.8.2 _[link](https://ftp.gnu.org/gnu/bison/bison-3.8.2.tar.xz)_
 - bzip2-1.0.8 _[link](https://www.sourceware.org/pub/bzip2/bzip2-1.0.8.tar.gz)_
-- cmake-4.1.1 _BLFS_
+- cmake-4.1.2 _BLFS_ ([download](https://cmake.org/files/v4.1/cmake-4.1.2.tar.gz), [manual](https://www.linuxfromscratch.org/blfs/view/svn/general/cmake.html))
 - coreutils-9.8 _[link](https://ftp.gnu.org/gnu/coreutils/coreutils-9.8.tar.xz)_
 - curl-8.16.0 _BLFS_
 - dejagnu-1.6.3 _[link](https://ftp.gnu.org/gnu/dejagnu/dejagnu-1.6.3.tar.gz)_
