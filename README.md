@@ -49,12 +49,12 @@ This repository tracks package versions for my Linux From Scratch (LFS) build.
 - inetutils-2.6 _[link](https://ftp.gnu.org/gnu/inetutils/inetutils-2.6.tar.xz)_
 - inih-r62 _BLFS_
 - intltool-0.51.0 _[link](https://launchpad.net/intltool/trunk/0.51.0/+download/intltool-0.51.0.tar.gz)_
-- iproute2-6.16.0 _[link](https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.16.0.tar.xz)_
+- iproute2-6.17.0 [download](https://www.kernel.org/pub/linux/utils/net/iproute2/iproute2-6.17.0.tar.xz) [manual](https://www.linuxfromscratch.org/~thomas/multilib/chapter08/iproute2.html)
 - isl-0.27 _[link](https://libisl.sourceforge.io/isl-0.27.tar.xz)_
 - jinja2-3.1.6 _[link](https://pypi.org/packages/source/J/Jinja2/jinja2-3.1.6.tar.gz)_
 - kbd-2.9.0 _[link](https://www.kernel.org/pub/linux/utils/kbd/kbd-2.9.0.tar.xz)_
 - kmod-34.2 _[link](https://www.kernel.org/pub/linux/utils/kernel/kmod/kmod-34.2.tar.xz)_
-- less-679 _[link](https://www.greenwoodsoftware.com/less/less-679.tar.gz)_
+- less-685 [download](https://www.greenwoodsoftware.com/less/less-685.tar.gz) [manual](https://www.linuxfromscratch.org/~thomas/multilib/chapter08/less.html)
 - lfs-bootscripts-20250827 _[link](https://www.linuxfromscratch.org/lfs/downloads/development/lfs-bootscripts-20250827.tar.xz)_
 - libarchive-3.8.1 _BLFS_
 - libcap-2.76 _[link](https://www.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.76.tar.xz)_
@@ -84,7 +84,7 @@ This repository tracks package versions for my Linux From Scratch (LFS) build.
 - ncurses-6.5-20250809 _[link](https://invisible-mirror.net/archives/ncurses/current/ncurses-6.5-20250809.tgz)_
 - nghttp2-1.67.1 _BLFS_
 - ninja-1.13.1 _[link](https://github.com/ninja-build/ninja/archive/v1.13.1/ninja-1.13.1.tar.gz)_
-- openssl-3.5.3 _[link](https://github.com/openssl/openssl/releases/download/openssl-3.5.3/openssl-3.5.3.tar.gz)_
+- openssl-3.6.0 [download](https://github.com/openssl/openssl/releases/download/openssl-3.6.0/openssl-3.6.0.tar.gz) [manual](https://www.linuxfromscratch.org/~thomas/multilib/chapter08/openssl.html)
 - p11-kit-0.25.10 _BLFS_
 - packaging-25.0 _[link](https://files.pythonhosted.org/packages/source/p/packaging/packaging-25.0.tar.gz)_
 - patch-2.8 _[link](https://ftp.gnu.org/gnu/patch/patch-2.8.tar.xz)_
@@ -94,8 +94,8 @@ This repository tracks package versions for my Linux From Scratch (LFS) build.
 - popt-1.19 _BLFS_
 - procps-ng-4.0.5 _[link](https://sourceforge.net/projects/procps-ng/files/Production/procps-ng-4.0.5.tar.xz)_
 - psmisc-23.7 _[link](https://sourceforge.net/projects/psmisc/files/psmisc/psmisc-23.7.tar.xz)_
-- Python-3.13.7 _[link](https://www.python.org/ftp/python/3.13.7/Python-3.13.7.tar.xz)_
-- python-3.13.7-docs-html _[link](https://www.python.org/ftp/python/doc/3.13.7/python-3.13.7-docs-html.tar.bz2)_
+- Python-3.14.0 [download](https://www.python.org/ftp/python/3.14.0/Python-3.14.0.tar.xz) [manual](https://www.linuxfromscratch.org/~thomas/multilib/chapter08/Python.html)
+- python-3.14.0-docs-html [download](https://www.python.org/ftp/python/doc/3.14.0/python-3.14.0-docs-html.tar.bz2)
 - readline-8.3 _[link](https://ftp.gnu.org/gnu/readline/readline-8.3.tar.gz)_
 - sed-4.9 _[link](https://ftp.gnu.org/gnu/sed/sed-4.9.tar.xz)_
 - setuptools-80.9.0 _[link](https://pypi.org/packages/source/s/setuptools/setuptools-80.9.0.tar.gz)_
